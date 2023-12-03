@@ -5,9 +5,12 @@
 
 </p>
 <br>
-
+<div align="center"">
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
+
+🌱 Actualmente estoy aprendiendo **Desarrollo WEB Full-Stack**
+</div>
 
 <p align="left">
 🎓 Estudiante de ingeniería en Computación en la Universidad Técnologico de Costa Rica, en la carrera de Bachillerato en Ingeniería en Computación. Actualmente estoy trabajando en una empresa gracias a la práctica profesional,
@@ -17,8 +20,14 @@
 📝 roles en el ámbito: desarrollador... líder...  programador... y en un futuro quién sabe ☺️
 </br>
 📫 Contacto: **alvaradosteven6@gmail.com**
+</br>
 <!--Intro end-->
 </p>
+
+<div align="center"> 
+<img alt="Coding" width="300" style="margin-top:10px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</div>
+
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
@@ -33,6 +42,20 @@
 
 </div>
 
-<div align="center">
-
+<div align="center" style="margin-bottom: 10px;">
+<h3>My GitHub Stats</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenAlvaradoAguilar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Steven Alvarado Aguilar Github Stats"> 
+</div>
+
+<img align="right" style="margin-bottom: 10px;" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenAlvaradoAguilar&show_icons=true&theme=dark&locale=en&layout=compact" alt="StevenAlvaradoAguilar" /></p>
+
+<br>
+
+<div align="center" style="margin-top: 10px;">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenAlvaradoAguilar&theme=dark" alt="StevenAlvaradoAguilar" /></p>
+</div>
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /> </p>
