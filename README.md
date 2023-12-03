@@ -42,20 +42,20 @@
 
 </div>
 
-<div align="center" style="margin-bottom: 10px;">
+<div align="center" style="margin-top: 10px">
 <h3>My GitHub Stats</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenAlvaradoAguilar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Steven Alvarado Aguilar Github Stats"> 
-</div>
-
-<img align="right" style="margin-bottom: 10px;" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenAlvaradoAguilar&show_icons=true&theme=dark&locale=en&layout=compact" alt="StevenAlvaradoAguilar" /></p>
 
 <br>
 
-<div align="center" style="margin-top: 10px;">
+<img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+<br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenAlvaradoAguilar&show_icons=true&theme=dark&locale=en&layout=compact" alt="StevenAlvaradoAguilar" /></p>
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenAlvaradoAguilar&theme=dark" alt="StevenAlvaradoAguilar" /></p>
-</div>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /></p>
+
+</div>
