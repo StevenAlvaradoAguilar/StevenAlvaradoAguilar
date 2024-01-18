@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Steven Alvarado Aguilar ✨ </h1> 
 
 <p align="center">
-<a href="www.linkedin.com/in/stevenalvaradoaguilar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="steven-gerardo-alvarado-aguilar"/></a>
+<a href="https://www.linkedin.com/in/stevenalvaradoaguilar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="steven-gerardo-alvarado-aguilar"/></a>
 
 </p>
 <br>
