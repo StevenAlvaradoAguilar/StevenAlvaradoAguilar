@@ -24,7 +24,7 @@ jobs:
         uses: withastro/action@v1
         with:
           node-version: '20.10.0'
-          version: '10.2.5' # Especifica la versión de PNPM aquí
+          package-manager: '8.15.1' # Especifica la versión de PNPM aquí
 
   deploy:
     needs: build
