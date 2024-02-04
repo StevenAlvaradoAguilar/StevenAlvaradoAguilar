@@ -10,6 +10,7 @@ import Experience from "../components/Experience.astro"
 import Briefcase from "../components/icons/Briefcase.astro"
 import CodeIcon from "../components/icons/Code.astro"
 import Projects from "../components/Projects.astro"
+import Phone from "@/components/icons/Phone.astro"
 ---
 
 <Layout
@@ -17,16 +18,16 @@ import Projects from "../components/Projects.astro"
   description="Contrata a stevendev para crear tu aplicación web o móvil. Desarrollador Web y Creador de Contenido. Especializado en crear aplicaciones únicas."
 >
   <main class="px-4">
-    <SectionContainer class="py-44 pb-32">
+    <SectionContainer class="py-35 pb-15 mt-4">
       <img
-        class="rounded-full size-12 mb-4"
+        class="rounded-full size-16 mb-4"
         src="/stevendev.webp"
         alt="stevendev photo"
       />
       <h1
         class="text-gray-900 dark:text-white text-3xl md:text-4xl lg:text-5xl font-bold flex flex-row gap-x-4 pb-6 lg:pb-10"
       >
-        Hey, soy Steven <a
+        Hola, soy Steven<a
           href="https://www.linkedin.com/in/stevenalvaradoa/"
           target="_blank"
           rel="noopener"
@@ -41,13 +42,13 @@ import Projects from "../components/Projects.astro"
         <span>Full Stack Developer con 8 meses de experiencia un estudiante próximo a graduarme con experiencia en desarrollo FullStack.</span><span
           class="text-yellow-800 dark:text-yellow-200"
         >
-        Durante los últimos 7 meses, he estado inmerso en el mundo de la programación, trabajando con tecnologías como C#, .NET, SQL Server, React, JavaScript, HTML y CSS. Y capacitandome en los lenguajes de Python y Java.</span
+        Durante los últimos 8 meses, he estado inmerso en el mundo de la programación, trabajando con tecnologías como C#, .NET, SQL Server, React, JavaScript, HTML y CSS. Y capacitandome en los lenguajes de Python y Java.</span
         >
          <span class="text-red-800 dark:text-red-200">
           De Alajuela, Costa Rica</span
         >.
         <span class="text-sky-800 dark:text-sky-200"
-          >Estoy apasionado por la creación de soluciones innovadoras y funcionales que satisfagan las necesidades de los usuarios y los clientes.</span
+          >Estoy apasionado por la creación de soluciones innovadoras y funcionales.</span
         >
       </h2>
 
@@ -63,6 +64,10 @@ import Projects from "../components/Projects.astro"
         <SocialPill href="mailto:alvaradosteven6@gmail.com">
           <MailIcon class="size-4 md:size-6" />
            alvaradosteven6@gmail.com
+        </SocialPill>
+        <SocialPill href="mailto:alvaradosteven6@gmail.com">
+          <Phone class="size-4 md:size-4" />
+           +506 83493058
         </SocialPill>
       </nav>
     </SectionContainer>

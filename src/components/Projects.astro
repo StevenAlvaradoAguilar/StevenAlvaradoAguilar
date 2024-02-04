@@ -32,6 +32,7 @@ const TAGS = {
     icon: JavaScript,
   },
 }
+
 const PROJECTS = [
   {
     title: "Kámien Costa Rica",
@@ -47,16 +48,17 @@ const PROJECTS = [
 
 {
   PROJECTS.map(({ image, title, description, tags }) => (
-    <article>
-      <h3 class="text-2xl font-semibold text-yellow-800 dark:text-yellow-200 mb-2">
+    <article class="mb-8 sm:mb-12 md:mb-16">
+      <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold text-yellow-800 dark:text-yellow-200 mb-2">
         {title}
       </h3>
       <p class="text-lg mb-4 text-pretty">{description}</p>
-      <ul class="flex gap-x-2 flex-row mb-2">
+
+      <ul class="flex flex-wrap gap-x-2 sm:gap-x-4 md:gap-x-6 flex-row mb-2">
         {tags.map((tag) => (
-          <li>
+          <li class="mb-2">
             <span
-              class={`flex gap-x-2 rounded-full text-xs ${tag.class} py-1 px-2 border border-white/10`}
+              class={`flex items-center gap-x-2 rounded-full text-xs ${tag.class} py-1 px-2 border border-white/10`} style={{ minWidth: '120px' }}
             >
               <tag.icon class="size-4" />
               {tag.name}
@@ -64,12 +66,14 @@ const PROJECTS = [
           </li>
         ))}
       </ul>
+
       <img
         loading="lazy"
-        class="rounded shadow-2xl shadow-white/10 aspect-video"
+        class="rounded shadow-2xl shadow-white/10 aspect-video mt-8 w-full"
         src={image}
         alt={`Captura de pantalla del proyecto ${image}`}
       />
     </article>
   ))
 }
+
