@@ -1,0 +1,61 @@
+{
+    "start": {
+        "title": "Porfolio de stevendev - Desarrollador y Programador Web con 8 meses de experiencia",
+        "description": "Contrata a stevendev para crear tu aplicación web o móvil. Desarrollador Web Júnior."
+    },
+    "navigation": {
+        "home": "Inicio"
+    },
+    "page": {
+        "name": "Hola, soy Steven",
+        "about": "Disponible para trabajar",
+        "descriptionw": "Full Stack Developer con 8 meses de experiencia un estudiante próximo a graduarme con experiencia en desarrollo FullStack. ",
+        "descriptionw1": "Durante los últimos 8 meses, he estado inmerso en el mundo de la programación, trabajando con tecnologías como C#, .NET, SQL Server, React, JavaScript, HTML y CSS. Y capacitandome en los lenguajes de Python y Java. ",
+        "ubication": "De Alajuela, Costa Rica",
+        "motivation": " Estoy apasionado por la creación de soluciones innovadoras y funcionales.",
+        "contact": "Contacto",
+        "email": "Correo",
+        "WorkExperience": "Experiencia laboral",
+        "projects": "Proyectos",
+        "close": "Cerrar"
+    },
+    "experiences": {
+        "title": "Ingeniero de software júnior | Grupo Asesor en Informática S.A.",
+        "description": "Fui parte de un equipo en el desarrollo de una aplicación web con los fundamentos de programación, fundamentos de bases de datos y otras tecnologías. Di mantenimiento a piezas específicas para implementar nuevas funcionalidades.",
+        "title1": "Intern Ingeniero de Software : Grupo Asesor en Informática S.A.",
+        "description1": "Fui parte de un equipo en el desarrollo de un nuevo sistema para una aplicación web con los fundamentos de programación, fundamentos de bases de datos y otras tecnologías. Aplicación web funcional, escalable e implementación de una nuev funcionalidad de un menú.",
+        "more": "Saber más...",
+        "to": "al"
+    },
+    "projects": {
+        "title": "Kámien Costa Rica",
+        "description": "Soy parte de un proyecto independiente con Kámien Costa Rica, una tienda virtual con artículos originales. Autenticidad garantizada e importaciones directamente desde USA. Estoy dando mantenimiento, rediseño y desarrollo de nuevas funciones del sitio web para la compra de productos a través de Whatsapp.",
+        "screenshot": "Captura de pantalla del proyecto"
+    },
+    "footer": {
+        "about": "Sobre mí",
+        "contact": "Contacto",
+        "rights": "Casi todos los derechos reservados",
+        "date": "Hoy es {{date, DATE_HUGE}}",
+        "date_morning": "¡Buenos días! Hoy es {{date, DATE_HUGE}} | Que tenga un buen día!",
+        "date_afternoon": "¡Buenos días! Es {{date, DATE_HUGE}}",
+        "date_evening": "¡Buenas noches! Hoy ha sido {{date, DATE_HUGE}}"
+    },
+    "description": {
+        "part1": "Edita <1>src/App.js</1> y guarda para recargar",
+        "part2": "Aprende React"
+    },
+    "header": {
+        "home": "Inicio",
+        "experience": "Experiencia",
+        "projects": "Proyectos",
+        "aboutMe": "Sobre mí",
+        "contact": "Contacto",
+        "cv": "Curriculum"
+    },
+    "about": {
+        "title": "Sobre mi",
+        "bio": "Hola 👋 soy Steven Alvarado Aguilar ✨. 🌱 Actualmente estoy aprendiendo Desarrollo WEB Full-Stack. 🎓 Estudiante a días de graduarse de ingeniería en Computación en la Universidad Técnologico de Costa Rica, en la carrera de Bachillerato en Ingeniería en Computación. Actualmente estoy en búsqueda de trabajo, 💻 con 8 meses de experiencia profesional en el campo de desarrollo de software.",
+        "skills": "Tecnologías conocidas👨🏻‍💻"
+    }
+}
