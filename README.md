@@ -13,11 +13,11 @@
 </div>
 
 <p align="left">
-🎓 Estudiante de ingeniería en Computación en la Universidad Técnologico de Costa Rica, en la carrera de Bachillerato en Ingeniería en Computación. Actualmente estoy trabajando en una empresa gracias a la práctica profesional,
+Estudiante a días de graduarse de ingeniería en Computación en la Universidad Técnologico de Costa Rica, en la carrera de Bachillerato en Ingeniería en Computación. Actualmente estoy en búsqueda de trabajo, 
+    
+💻 con 8 meses de experiencia profesional en el campo de desarrollo de software
 
-💻 iniciando mi experiencia profesional con 4 años en el proceso de desarrollo de software
-
-📝 roles en el ámbito: desarrollador... líder...  programador... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollo web, backEnd, frontEnd y FullStack.
 </br>
 📫 Contacto: **alvaradosteven6@gmail.com**
 </br>
