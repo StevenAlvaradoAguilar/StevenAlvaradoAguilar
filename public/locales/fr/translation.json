@@ -1,0 +1,61 @@
+{
+    "start": {
+        "title": "Portfolio de stevendev - Web Developer and Programmer with 8 months of experience",
+        "description": "Engagez stevendev pour créer votre application web ou mobile. Développeur web junior."
+    },
+    "navigation": {
+        "home": "Home"
+    },
+    "page": {
+        "name": "Bonjour, je suis Steven",
+        "about": "Disponible pour travailler",
+        "descriptionw": "Développeur Full Stack avec 8 mois d'expérience un étudiant bientôt diplômé avec une expérience de développement FullStack. ",
+        "descriptionw1": "Au cours des huit derniers mois, j'ai été immergé dans le monde de la programmation, travaillant avec des technologies telles que C#, .NET, SQL Server, React, JavaScript, HTML et CSS. Et je me suis formé aux langages Python et Java. ",
+        "ubication": "Depuis Alajuela, Costa Rica",
+        "motivation": " Je suis passionné par la création de solutions innovantes et fonctionnelles.",
+        "contact": "Contact",
+        "email": "Courriel",
+        "WorkExperience": "Expérience professionnelle",
+        "projects": "Projets",
+        "close": "Fermer"
+    },
+    "experiences": {
+        "title": "Ingénieur logiciel junior | Grupo Asesor en Informática S.A.",
+        "description": "Je faisais partie d'une équipe qui développait une application web avec les bases de la programmation, les bases de données et d'autres technologies. J'ai assuré la maintenance de parties spécifiques afin d'implémenter de nouvelles fonctionnalités.",
+        "title1": "Ingénieur logiciel stagiaire : Grupo Asesor en Informática S.A.",
+        "description1": "J'ai fait partie d'une équipe qui développait un nouveau système pour une application web avec les bases de la programmation, les bases de données et d'autres technologies. Application web fonctionnelle et évolutive et mise en œuvre d'une nouvelle fonctionnalité de menu.",
+        "more": "En savoir plus...",
+        "to": "à"
+    },
+    "projects": {
+        "title": "Kámien Costa Rica",
+        "description": "Je fais partie d'un projet indépendant avec Kámien Costa Rica, une boutique en ligne avec des articles originaux. L'authenticité est garantie et les produits sont importés directement des États-Unis. Je m'occupe de la maintenance, de la refonte et du développement de nouvelles fonctions du site web pour l'achat de produits par Whatsapp.",
+        "screenshot": "Capture d'écran du projet"
+    },
+    "footer": {
+        "about": "A propos de moi",
+        "contact": "Contact",
+        "rights": "Presque tous les droits sont réservés",
+        "date": "Aujourd'hui, c'est {{date, DATE_HUGE}}",
+        "date_morning": "Bonjour à tous ! Aujourd'hui, c'est {{date, DATE_HUGE}} | Je vous souhaite une bonne journée!",
+        "date_afternoon": "Bonjour à tous ! C'est {{date, DATE_HUGE}}",
+        "date_evening": "Bonsoir à tous ! Aujourd'hui, c'était{{date, DATE_HUGE}}"
+    },
+    "description" : {
+        "part1" : "Modifiez <1>src/App.js</1> et enregistrez pour recharger",
+        "part2" : "Apprendre React"
+    },
+    "header": {
+        "home": "Accueil",
+        "experience": "Expérience",
+        "projects": "Projets",
+        "aboutMe": "A propos de moi",
+        "contact": "Contact",
+        "cv": "Curriculum vitae"
+    },
+    "about": {
+        "title": "A propos de moi",
+        "bio": "Bonjour 👋 Je suis Steven Alvarado Aguilar ✨. 🌱 Je suis actuellement en train d'apprendre le développement WEB Full-Stack. 🎓 Étudiant sur le point d'obtenir un diplôme en génie informatique à l'Université technique du Costa Rica, dans la carrière de baccalauréat en génie informatique. Je suis actuellement à la recherche d'un emploi, 💻 avec 8 mois d'expérience professionnelle dans le domaine du développement de logiciels.",
+        "skills": "Technologies connues👨🏻‍💻"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "start": {
+        "title": "stevendev's portfolio - Web Developer and Programmer with 8 months experience",
+        "description": "Hire stevendev to create your web or mobile application. Junior Web Developer."
+    },
+    "navigation": {
+        "home": "Home"
+    },
+    "page": {
+        "name": "Hi, I'm Steven.",
+        "about": "Available for work",
+        "descriptionw": "Full Stack Developer with 8 months of experience a student about to graduate with experience in FullStack development. ",
+        "descriptionw1": "For the last 8 months, I have been immersed in the programming world, working with technologies such as C#, .NET, SQL Server, React, JavaScript, HTML and CSS. And training in Python and Java languages. ",
+        "ubication": "From Alajuela, Costa Rica",
+        "motivation": " I am passionate about creating innovative and functional solutions.",
+        "contact": "Contact",
+        "email": "Email",
+        "WorkExperience": "Work experience",
+        "projects": "Projects",
+        "close": "Close"
+    },
+    "experiences": {
+        "title": "Junior Software Engineer : Grupo Asesor en Informática S.A.",
+        "description": "I was part of a team in the development of a web application with the basics of programming, database fundamentals and other technologies. I provided maintenance on specific parts to implement new functionality.",
+        "title1": "Software Engineer Intern : Grupo Asesor en Informática S.A.",
+        "description1": "I was part of a team in the development of a new system for a web application with the basics of programming, database fundamentals and other technologies. Functional, scalable web application and implementation of a new menu functionality.",
+        "more": "Learn more...",
+        "to": "at"
+    },
+    "projects": {
+        "title": "Kámien Costa Rica",
+        "description": "I am part of an independent project with Kámien Costa Rica, an online store with original items. Guaranteed authenticity and imports directly from USA. I am giving maintenance, redesign and development of new website features for the purchase of products through Whatsapp.",
+        "screenshot": "Screenshot of the project"
+    },
+    "footer": {
+        "about": "About me",
+        "contact": "Contact",
+        "rights": "Almost all rights reserved",
+        "date": "Today is {{date, DATE_HUGE}}",
+        "date_morning": "Good morning! Today is {{date, DATE_HUGE}} | Have a nice day!",
+        "date_afternoon": "Good afternoon! It's {{date, DATE_HUGE}}",
+        "date_evening": "Good evening! Today was the {{date, DATE_HUGE}}"
+    },
+    "header": {
+        "home": "Home",
+        "experience": "Experience",
+        "projects": "Projects",
+        "aboutMe": "About me",
+        "contact": "Contact",
+        "cv": "Resume"
+    },
+    "about": {
+        "title": "About me",
+        "bio": "Hello 👋 I'm Steven Alvarado Aguilar ✨. 🌱 I'm currently learning Full-Stack WEB Development. 🎓 Student about to graduate from Computer Engineering at the Universidad Tecnologico de Costa Rica, in the Bachelor's Degree in Computer Engineering. I am currently looking for a job, 💻 with 8 months of professional experience in the field of software development.",
+        "skills": "Known technologies👨🏻‍💻"
+    }
+}
