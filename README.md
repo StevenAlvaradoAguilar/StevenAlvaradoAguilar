@@ -1,9 +1,4 @@
 <h1 align="center">Hola 👋  soy Steven Alvarado Aguilar ✨ </h1> 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/stevenalvaradoaguilar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="steven-gerardo-alvarado-aguilar"/></a>
-
-</p>
 <br>
 <div align="center"">
 <h2>Sobre mi 😃</h2>
@@ -19,7 +14,9 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 📝 roles en el ámbito: desarrollo web, backEnd, frontEnd y FullStack.
 </br>
+
 📫 Contacto: **alvaradosteven6@gmail.com**
+
 </br>
 <!--Intro end-->
 </p>
@@ -52,12 +49,6 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StevenAlvaradoAguilar" alt="StevenAlvaradoAguilar" /></a> </p>
-
-<br>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenAlvaradoAguilar&show_icons=true&theme=dark&locale=en&layout=compact" alt="StevenAlvaradoAguilar" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenAlvaradoAguilar&theme=dark" alt="StevenAlvaradoAguilar" /></p>
@@ -65,3 +56,9 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 <p><img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /></p>
 
 </div>
+
+## Connect with me:
+<p align="center">
+<a href="https://www.linkedin.com/in/stevenalvaradoaguilar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="steven-gerardo-alvarado-aguilar"/></a>
+
+</p>
