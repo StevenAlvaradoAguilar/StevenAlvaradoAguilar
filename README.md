@@ -32,6 +32,11 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 <p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,azure,react,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,bootstrap,graphql,postman,solidity,netlify,vscode,bash,linux&perline=12" />
+` Android Studio  `  `  C  `  `   C#   `  `   C++   `  `   Java   `  `   Python   ` 
+`   .Net   ` `   Azure   ` `   React   ` `   CSS   ` `   HTML   ` `   JavaScript   ` 
+`   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   Git   ` `   Github   ` `   Java   ` `   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   Git   ` 
+`   Docker   ` `   MaterialUI   ` `   Bootstrap   ` `   GraphQL   ` `   Postman   ` 
+`   Solidity   ` `   Netlify   ` `   VSCode   ` `   Bash   ` `   Linux   `
 </a>
 </p>
 <br>
@@ -60,10 +65,14 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 ## Connect with me:
 
+<div align="center">
+
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenalvaradoa/?locale=en_US)
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alvaradosteven6)
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaradosteven6@gmail.com)
+
+</div>
 
 </p>
