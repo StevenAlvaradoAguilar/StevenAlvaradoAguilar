@@ -42,7 +42,7 @@ const Header = () => {
 
   return (
     <header
-      className={"flex justify-center items-center mx-auto py-3 md:py-5 sticky top-0 w-full xl:w-[1120px] z-10 underline-offset-2 tracking-wider decoration-4"}
+      className={"flex justify-center items-center mx-auto py-3 md:py-5 sticky top-0 w-full xl:w-[800px] z-10 underline-offset-2 tracking-wider decoration-4"}
     >
       <nav className={"flex flex-wrap items-center justify-center container mx-auto border border-black rounded-full px-3 py-1 bg-neutral-200 dark:bg-black/50 backdrop-blur-2xl"}>
         <a
@@ -102,7 +102,7 @@ const Header = () => {
             <div className="menuLanguages floatingMenu">
               <div className="menuItems font-bold text-sm md:text-base absolute z-10 top-full left-50 mt-1 border border-black rounded-md shadow-lg focus:outline-none">
                 {Object.keys(lngs).map((lng) => (
-                  <div className="language" key={lng} onClick={() => handleLanguageChange(lng)}>
+                  <div className="language transition-colors duration-300 hover:text-blue-500" key={lng} onClick={() => handleLanguageChange(lng)}>
                     <a className="langOption">{lngs[lng].nativeName}</a>
                   </div>
                 ))}

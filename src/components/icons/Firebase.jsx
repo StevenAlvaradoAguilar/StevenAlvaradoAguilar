@@ -2,23 +2,15 @@ import React from 'react';
 
 const Firebase = () => {
   return (
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      className="icon icon-tabler icon-tabler-brand-firebase"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      strokeWidth="2"
-      stroke="currentColor"
-      fill="none"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
-      d="M4.53 17.05l6.15 -11.72h-.02c.38 -.74 1.28 -1.02 2.01 -.63c.26 .14 .48 .36 .62 .62l1.06 2.01"
-    ></path><path
-      d="M15.47 6.45c.58 -.59 1.53 -.59 2.11 -.01c.22 .22 .36 .5 .41 .81l1.5 9.11c.1 .62 -.2 1.24 -.76 1.54l-6.07 2.9c-.46 .25 -1.01 .26 -1.46 0l-6.02 -2.92c-.55 -.31 -.85 -.92 -.75 -1.54l1.96 -12.04c.12 -.82 .89 -1.38 1.7 -1.25c.46 .07 .87 .36 1.09 .77l1.24 1.76"
-    ></path><path d="M4.57 17.18l10.93 -10.68"></path></svg
-    >
+    <svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    x="0px" 
+    y="0px" 
+    width="24" 
+    height="24" 
+    viewBox="0 0 48 48">
+      <path fill="#ff8f00" d="M8,37L23.234,8.436c0.321-0.602,1.189-0.591,1.494,0.02L30,19L8,37z"></path><path fill="#ffa000" d="M8,36.992l5.546-34.199c0.145-0.895,1.347-1.089,1.767-0.285L26,22.992L8,36.992z"></path><path fill="#ff6f00" d="M8.008 36.986L8.208 36.829 25.737 22.488 20.793 13.012z"></path><path fill="#ffc400" d="M8,37l26.666-25.713c0.559-0.539,1.492-0.221,1.606,0.547L40,37l-15,8.743 c-0.609,0.342-1.352,0.342-1.961,0L8,37z"></path>
+    </svg>
   );
 }
 

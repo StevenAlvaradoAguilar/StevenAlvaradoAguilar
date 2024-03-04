@@ -4,21 +4,14 @@ const JavaScript = () => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      className="icon icon-tabler icon-tabler-brand-javascript"
+      x="0px"
+      y="0px"
       width="24"
       height="24"
-      viewBox="0 0 24 24"
-      strokeWidth="2"
-      stroke="currentColor"
-      fill="none"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
-      d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z"></path><path d="M7.5 8h3v8l-2 -1"
-      ></path><path
-        d="M16.5 8h-2.5a.5 .5 0 0 0 -.5 .5v3a.5 .5 0 0 0 .5 .5h1.423a.5 .5 0 0 1 .495 .57l-.418 2.93l-2 .5"
-      ></path></svg
+      viewBox="0 0 48 48"
     >
+      <path fill="#ffd600" d="M6,42V6h36v36H6z"></path><path fill="none" stroke="#000001" strokeMiterlimit="10" strokeWidth="3.3" d="M23.783,22.352v9.819 c0,3.764-4.38,4.022-6.283,0.802"></path><path fill="none" stroke="#000001" strokeMiterlimit="10" strokeWidth="3.3" d="M34.69,25.343 c-1.739-2.727-5.674-2.345-5.84,0.558c-0.214,3.757,6.768,2.938,6.247,7.107c-0.365,2.92-4.874,3.858-7.193-0.065"></path>
+    </svg>
   );
 }
 

@@ -40,7 +40,7 @@ function App() {
               href="https://www.linkedin.com/in/stevenalvaradoa/"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex justify-center items-center"
+              className="flex justify-center items-center hover:bg-white/10 rounded-full px-8 transition"
             >
               <Badge>{t("page.about")}</Badge>
             </a>

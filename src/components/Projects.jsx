@@ -7,32 +7,56 @@ import FirebaseIcon from "./icons/Firebase";
 import HTMLIcon from "./icons/HTML";
 import CSSIcon from "./icons/CSS";
 import JavaScriptIcon from "./icons/JavaScript";
+import NextJsIcon from "./icons/NextJs";
+import TypescriptIcon from "./icons/Typescript";
+import APIIcon from "./icons/API";
+import TailwindIcon from "./icons/Tailwind";
 
 const TAGS = {
   REACT: {
     name: "React.js",
-    class: "bg-[#0000ff] text-white text-center",
+    class: "bg-[#82898f] text-white",
     icon: ReactIcon,
   },
   FIREBASE: {
     name: "Firebase",
-    class: "bg-[#a8b000] text-white",
+    class: "bg-[#82898f] text-white",
     icon: FirebaseIcon,
   },
   HTML: {
     name: "HTML",
-    class: "bg-[#ff8000] text-white",
+    class: "bg-[#82898f] text-white",
     icon: HTMLIcon,
   },
   CSS: {
     name: "CSS",
-    class: "bg-[#0000ff] text-white",
+    class: "bg-[#82898f] text-white",
     icon: CSSIcon,
   },
   JAVASCRIPT: {
     name: "JavaScript",
-    class: "bg-[#a8b000] text-white",
+    class: "bg-[#82898f] text-white",
     icon: JavaScriptIcon,
+  },
+  NEXTJS: {
+    name: "NextJS",
+    class: "bg-[#82898f] text-white",
+    icon: NextJsIcon,
+  },
+  TYPESCRIPT: {
+    name: "TypeScript",
+    class: "bg-[#82898f] text-white",
+    icon: TypescriptIcon,
+  },
+  TAILWIND: {
+    name: "Tailwind",
+    class: "bg-[#82898f] text-white",
+    icon: TailwindIcon,
+  },
+  API: {
+    name: "API",
+    class: "bg-[#82898f] text-white",
+    icon: APIIcon,
   },
 };
 
@@ -48,12 +72,20 @@ const Projects = () => {
       image: "/projects/Kámien.webp",
       tags: [TAGS.REACT, TAGS.FIREBASE, TAGS.JAVASCRIPT, TAGS.HTML, TAGS.CSS],
     },
+    {
+      title: t("projects.title2"),
+      description: t("projects.description2"),
+      link: "https://globalweathers.netlify.app/",
+      github: "https://github.com/StevenAlvaradoAguilar/Weather-App",
+      image: "/projects/Weather.webp",
+      tags: [TAGS.NEXTJS, TAGS.TYPESCRIPT, TAGS.API, TAGS.TAILWIND],
+    },
   ];
 
   return (
     <>
       {PROJECTS.map(({ image, title, description, tags, link }, index) => (
-        <div key={index}>
+        <div key={index} className="mb-8 sm:mb-12 md:mb-12 pb-8">
           <article className="mb-8 sm:mb-12 md:mb-16">
             <h3 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-yellow-800 dark:text-yellow-200 mb-2">
               {title}

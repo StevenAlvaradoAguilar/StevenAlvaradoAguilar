@@ -30,7 +30,9 @@
     "projects": {
         "title": "Kámien Costa Rica",
         "description": "Je fais partie d'un projet indépendant avec Kámien Costa Rica, une boutique en ligne avec des articles originaux. L'authenticité est garantie et les produits sont importés directement des États-Unis. Je m'occupe de la maintenance, de la refonte et du développement de nouvelles fonctions du site web pour l'achat de produits par Whatsapp.",
-        "screenshot": "Capture d'écran du projet"
+        "screenshot": "Capture d'écran du projet",  
+        "title2": "Application météo",
+        "description2": "Ce projet est une application permettant d'utiliser et de renforcer mes connaissances en typescript Next et css Tailwind avec API, l'utilisation et les bonnes pratiques des développeurs web en Backend et Frontend."
     },
     "footer": {
         "about": "A propos de moi",
