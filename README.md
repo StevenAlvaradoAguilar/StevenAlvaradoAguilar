@@ -29,16 +29,28 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<!-- <p align="left"> -->
-<!-- <a href="https://skillicons.dev"> -->
-<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,azure,react,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,bootstrap,graphql,postman,solidity,netlify,vscode,bash,linux&perline=12" />
+<p align="left">
+<a href="https://skillicons.dev">
+
+### | FrontEnd Stack
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,css,html,js,materialui,bootstrap&perline=12" />
+`   .Net   ` `   React   ` `   CSS   ` `   HTML   ` `   JavaScript   ` 
+`   MaterialUI   ` `   Bootstrap   ` 
+
+### | BackEnd Stack
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,firebase,docker,graphql&perline=12" />
+`   .Net   ` `   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   MySQL   ` `   SQLite   ` `   Docker   ` `   GraphQL   `
+
+### | Other technologies
+
+<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,azure,git,github,docker,postman,solidity,netlify,vscode,bash,linux&perline=12" />
 ` Android Studio  `  `  C  `  `   C#   `  `   C++   `  `   Java   `  `   Python   ` 
-`   .Net   ` `   Azure   ` `   React   ` `   CSS   ` `   HTML   ` `   JavaScript   ` 
-`   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   Git   ` `   Github   ` `   Java   ` `   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   Git   ` 
-`   Docker   ` `   MaterialUI   ` `   Bootstrap   ` `   GraphQL   ` `   Postman   ` 
-`   Solidity   ` `   Netlify   ` `   VSCode   ` `   Bash   ` `   Linux   `
-<!-- </a>
-</p> -->
+`   Azure   ` `   Git   ` `   Github   ` `   Java   ` `   MySQL   ` `   SQLite   ` 
+`   Firebase   ` `   Git   ` `   Postman   ` `   Solidity   ` `   Netlify   ` `   VSCode   ` `   Bash   ` `   Linux   `
+</a>
+</p>
 <br>
 <!--- stats (end) -->
 
