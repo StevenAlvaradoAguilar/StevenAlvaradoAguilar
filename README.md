@@ -1,10 +1,12 @@
-<h1 align="center">Hola 👋  soy Steven Alvarado Aguilar ✨ </h1> 
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+%F0%9F%91%8B++soy+Steven+Alvarado+Aguilar+%E2%9C%A8+" alt="Typing SVG" /></a>
+</h1> 
 <br>
 <div align="center"">
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-🌱 Actualmente estoy aprendiendo **Desarrollo WEB Full-Stack**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF758&random=false&width=435&lines=%F0%9F%8C%B1+I+am+currently+learning+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <p align="left">
@@ -27,28 +29,32 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF3FF7&random=false&width=435&lines=Technologies+conocidas%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h2>
 <!--tech stack icons-->
 <p align="left">
 <a href="https://skillicons.dev">
 
 ### | FrontEnd Stack
+<img style="margin-bottom: 10px" src="https://skillicons.dev/icons?i=dotnet,react,css,html,js,materialui,bootstrap,tailwind&perline=12" width=608/>
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,css,html,js,materialui,bootstrap&perline=12" />
-`   .Net   ` `   React   ` `   CSS   ` `   HTML   ` `   JavaScript   ` 
-`   MaterialUI   ` `   Bootstrap   ` 
+`   .Net   ` `   React   ` `   CSS   ` `   HTML  ` `JavaScript` `MaterialUI` `Bootstrap` `Tailwind`
 
 ### | BackEnd Stack
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,firebase,docker,graphql&perline=12" />
-`   .Net   ` `   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   MySQL   ` `   SQLite   ` `   Docker   ` `   GraphQL   `
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,firebase,mysql,docker,graphql&perline=12" width=608/>
+
+`   .Net   ` ` NodeJs  ` `   MySQL   ` `   SQLite   ` ` Firebase ` `  MySQL  ` `  Docker  ` `  GraphQL  `
 
 ### | Other technologies
 
-<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,azure,git,github,docker,postman,solidity,netlify,vscode,bash,linux&perline=12" />
-` Android Studio  `  `  C  `  `   C#   `  `   C++   `  `   Java   `  `   Python   ` 
-`   Azure   ` `   Git   ` `   Github   ` `   Java   ` `   MySQL   ` `   SQLite   ` 
-`   Firebase   ` `   Git   ` `   Postman   ` `   Solidity   ` `   Netlify   ` `   VSCode   ` `   Bash   ` `   Linux   `
+<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,azure,java&perline=12" width=608/>
+
+` Android `  `  C         `  `   C#     `  `   C++   `  `   Java   `  `   Python   ` `   Azure   ` `   Java   `
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,solidity,netlify,vscode,bash,linux&perline=12" width=608/>
+
+ `   Git   ` `   Github   `  `Postman` `Solidity` `  Netlify  ` `  VSCode  ` `   Bash   ` `   Linux   `
+
 </a>
 </p>
 <br>
@@ -57,7 +63,9 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 </div>
 
 <div align="center" style="margin-top: 10px">
-<h3>My GitHub Stats</h3>
+<h3>
+    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A238&random=false&width=435&lines=My+GitHub+Stats" alt="Typing SVG" /></a>
+</h3>
     
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenAlvaradoAguilar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Steven Alvarado Aguilar Github Stats"> 
 
@@ -71,11 +79,9 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenAlvaradoAguilar&theme=dark" alt="StevenAlvaradoAguilar" /></p>
 
-<p><img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /></p>
-
 </div>
 
-## Connect with me:
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5190F7&random=false&width=435&lines=Connect+with+me" alt="Typing SVG" /></a>
 
 <div align="center">
 
@@ -83,8 +89,15 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alvaradosteven6)
 
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50683493058")
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaradosteven6@gmail.com)
 
 </div>
 
 </p>
+
+<br>
+<br>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /></p>
