@@ -10,11 +10,7 @@
 </div>
 
 <p align="left">
-I am a student about to graduate from Computer Engineering at the Universidad Tecnologico de Costa Rica, in the Bachelor's Degree in Computer Engineering. I am currently looking for a job, 
-    
-💻 with 8 months of professional experience in the field of software development.
-
-📝 roles in the field: web development, backEnd, frontEnd and FullStack.
+I am a student about to graduate from Computer Engineering at the Universidad Tecnologico de Costa Rica, in the Bachelor's Degree in Computer Engineering. I am currently looking for a job, 💻 with 8 months of professional experience in the field of software development,📝 roles in the field: web development, BackEnd, FrontEnd or FullStack.
 </br>
 
 📫 Contacto: **alvaradosteven6@gmail.com**
