@@ -29,16 +29,16 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
-<a href="https://skillicons.dev">
+<!-- <p align="left"> -->
+<!-- <a href="https://skillicons.dev"> -->
 <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,azure,react,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,bootstrap,graphql,postman,solidity,netlify,vscode,bash,linux&perline=12" />
 ` Android Studio  `  `  C  `  `   C#   `  `   C++   `  `   Java   `  `   Python   ` 
 `   .Net   ` `   Azure   ` `   React   ` `   CSS   ` `   HTML   ` `   JavaScript   ` 
 `   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   Git   ` `   Github   ` `   Java   ` `   NodeJs   ` `   MySQL   ` `   SQLite   ` `   Firebase   ` `   Git   ` 
 `   Docker   ` `   MaterialUI   ` `   Bootstrap   ` `   GraphQL   ` `   Postman   ` 
 `   Solidity   ` `   Netlify   ` `   VSCode   ` `   Bash   ` `   Linux   `
-</a>
-</p>
+<!-- </a>
+</p> -->
 <br>
 <!--- stats (end) -->
 
