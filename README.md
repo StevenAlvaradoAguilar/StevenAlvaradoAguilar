@@ -3,18 +3,18 @@
 </h1> 
 <br>
 <div align="center"">
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF758&random=false&width=435&lines=%F0%9F%8C%B1+I+am+currently+learning+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <p align="left">
-Estudiante a días de graduarse de ingeniería en Computación en la Universidad Técnologico de Costa Rica, en la carrera de Bachillerato en Ingeniería en Computación. Actualmente estoy en búsqueda de trabajo, 
+I am a student about to graduate from Computer Engineering at the Universidad Tecnologico de Costa Rica, in the Bachelor's Degree in Computer Engineering. I am currently looking for a job, 
     
-💻 con 8 meses de experiencia profesional en el campo de desarrollo de software
+💻 with 8 months of professional experience in the field of software development.
 
-📝 roles en el ámbito: desarrollo web, backEnd, frontEnd y FullStack.
+📝 roles in the field: web development, backEnd, frontEnd and FullStack.
 </br>
 
 📫 Contacto: **alvaradosteven6@gmail.com**
@@ -49,7 +49,7 @@ Estudiante a días de graduarse de ingeniería en Computación en la Universidad
 
 <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,azure,java&perline=12" width=608/>
 
-` Android `  `  C         `  `   C#     `  `   C++   `  `   Java   `  `   Python   ` `   Azure   ` `   Java   `
+` Android  `  `  C       `  `   C#     `  `   C++     `  `   Java   `  `   Python  ` `   Azure   ` `   Java   `
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,solidity,netlify,vscode,bash,linux&perline=12" width=608/>
 
