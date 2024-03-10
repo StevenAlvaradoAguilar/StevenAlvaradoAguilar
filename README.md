@@ -31,23 +31,23 @@ I am a student about to graduate from Computer Engineering at the Universidad Te
 ### | FrontEnd Stack
 <img style="margin-bottom: 10px" src="https://skillicons.dev/icons?i=dotnet,react,css,html,js,materialui,bootstrap,tailwind&perline=12" width=608/>
 
-`   .Net   ` `   React   ` `   CSS   ` `   HTML  ` `JavaScript` `MaterialUI` `Bootstrap` `Tailwind`
+`   .Net  ` `   React  ` `  CSS   ` `  HTML  ` `JavaScript` `MaterialUI` `Bootstrap` `Tailwind`
 
 ### | BackEnd Stack
 
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sqlite,firebase,mysql,docker,graphql&perline=12" width=608/>
 
-`   .Net   ` ` NodeJs  ` `   MySQL   ` `   SQLite   ` ` Firebase ` `  MySQL  ` `  Docker  ` `  GraphQL  `
+`   .Net   ` ` NodeJs ` `  MySQL  ` `  SQLite  ` ` Firebase ` `  MySQL  ` `  Docker  ` `  GraphQL  `
 
 ### | Other technologies
 
-<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,azure,java&perline=12" width=608/>
+<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,azure&perline=12" width=608/>
 
-` Android  `  `  C       `  `   C#     `  `   C++     `  `   Java   `  `   Python  ` `   Azure   ` `   Java   `
+` Android `  `  C      `  `   C#    `  `   C++    `  `   Java   `  `   Python  ` `   Azure   `
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,solidity,netlify,vscode,bash,linux&perline=12" width=608/>
 
- `   Git   ` `   Github   `  `Postman` `Solidity` `  Netlify  ` `  VSCode  ` `   Bash   ` `   Linux   `
+ `   Git  ` `  Github  `  `Postman` `Solidity` ` Netlify ` ` VSCode ` `  Bash ` `  Linux   `
 
 </a>
 </p>
@@ -95,3 +95,10 @@ I am a student about to graduate from Computer Engineering at the Universidad Te
 <br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=StevenAlvaradoAguilar&label=Profile%20views&color=0e75b6&style=flat" alt="StevenAlvaradoAguilar" /></p>
+
+### References
+- [Typing svg](https://readme-typing-svg.demolab.com/demo/)
+- [skillicons](https://skillicons.dev)
+
+##
+

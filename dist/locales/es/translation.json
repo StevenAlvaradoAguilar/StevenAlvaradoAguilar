@@ -17,7 +17,9 @@
         "email": "Correo",
         "WorkExperience": "Experiencia laboral",
         "projects": "Proyectos",
-        "close": "Cerrar"
+        "contactInfo": "Información de contacto",
+        "close": "Cerrar",
+        "backHome": "Volver a la página principal"
     },
     "experiences": {
         "title": "Ingeniero de software júnior | Grupo Asesor en Informática S.A.",

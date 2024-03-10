@@ -4,6 +4,10 @@ import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import ChangeLanguage from "./components/icons/ChangeLanguage";
 import DownArrow from "./components/icons/DownArrow";
+import FrontEndCard from "./FrontEndCard";
+import BackEndCard from "./BackEndCard";
+import OtherTechnologies from "./OtherTechnologies";
+import "./AboutMe.css";
 
 function AboutMePage() {
   const { t, i18n } = useTranslation();
@@ -40,9 +44,9 @@ function AboutMePage() {
       <div className="font-bold text-sm md:text-base flex flex-wrap items-center justify-center container mx-auto border border-black rounded-full px-3 py-1 bg-neutral-200 dark:bg-black/50 backdrop-blur-2xl">
         <Link
           to="/"
-          className="md:text-base hover:bg-white/10 rounded-full px-3 transition"
+          className="md:text-base hover:bg-white/20 rounded-full px-3 transition"
         >
-          Volver a la página principal
+          {t("page.backHome")}
         </Link>
         <div className="navBarTranslations font-bold text-sm md:text-base ml-20">
           <button
@@ -80,9 +84,46 @@ function AboutMePage() {
       </h1>
       <p className="text-lg mb-4 mt-5">{t("about.bio")}</p>
       <h2 className="text-2xl font-bold mb-4">{t("about.skills")}</h2>
-      <p align="center">
-        <a>
-          <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,dotnet,azure,react,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,bootstrap,graphql,postman,solidity,netlify,vscode,bash,linux&perline=12" alt="Skill Icons"/>
+      <p align="left">
+        <a href="https://skillicons.dev">
+          <div style={{ position: "relative", textAlign: "center" }}>
+            <h3 className="mb-4">FrontEnd Stack</h3>
+            <div
+              style={{
+                display: "flex",
+                flexWrap: "wrap",
+                justifyContent: "center",
+              }}
+            >
+              <FrontEndCard />
+            </div>
+          </div>
+
+          <div style={{ position: "relative", textAlign: "center" }}>
+            <h3 className="mb-4">BackEnd Stack</h3>
+            <div
+              style={{
+                display: "flex",
+                flexWrap: "wrap",
+                justifyContent: "center",
+              }}
+            >
+              <BackEndCard />
+            </div>
+          </div>
+
+          <div style={{ position: "relative", textAlign: "center" }}>
+            <h3 className="mb-4">BackEnd Stack</h3>
+            <div
+              style={{
+                display: "flex",
+                flexWrap: "wrap",
+                justifyContent: "center",
+              }}
+            >
+              <OtherTechnologies />
+            </div>
+          </div>
         </a>
       </p>
     </div>

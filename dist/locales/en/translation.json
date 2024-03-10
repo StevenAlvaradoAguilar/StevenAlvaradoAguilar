@@ -17,7 +17,9 @@
         "email": "Email",
         "WorkExperience": "Work experience",
         "projects": "Projects",
-        "close": "Close"
+        "contactInfo": "Contact Information",
+        "close": "Close",
+        "backHome": "Back to main page"
     },
     "experiences": {
         "title": "Junior Software Engineer : Grupo Asesor en Informática S.A.",

@@ -22,7 +22,7 @@ const ContactModal = ({ isOpen, onClose }) => {
                 <h2
                     className="text-2xl font-semibold mb-4"
                 >
-                    Contact Information
+                    {t("page.contactInfo")}
                 </h2>
                 <SocialPill href="https://www.linkedin.com/in/stevenalvaradoa/">
                     <LinkedInIcon className="size-4 md:size-6" />

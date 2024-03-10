@@ -17,7 +17,9 @@
         "email": "Courriel",
         "WorkExperience": "Expérience professionnelle",
         "projects": "Projets",
-        "close": "Fermer"
+        "contactInfo": "Information de contact",
+        "close": "Fermer",
+        "backHome": "Retour à la page principale"
     },
     "experiences": {
         "title": "Ingénieur logiciel junior | Grupo Asesor en Informática S.A.",
