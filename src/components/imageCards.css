@@ -1,0 +1,63 @@
+.image {
+    padding: 16px;
+    border-radius: 5px;
+    border: 2px solid #0000;
+    background:
+        linear-gradient(black, #222) padding-box,
+        linear-gradient(#09f, white) border-box;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.p {
+    border-radius: 5px;
+    border: 2px solid #0000;
+    background:
+        linear-gradient(black, #222) padding-box,
+        linear-gradient(#09f, white) border-box;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.imageProjects {
+    padding: 8px;
+    border-radius: 10px;
+    border: 3px solid #0000;
+    background:
+        linear-gradient(black, #222) padding-box,
+        linear-gradient(#09f, white) border-box;
+}
+
+.tags{
+    padding: 8px;
+    border-radius: 10px;
+    border: 3px solid #0000;
+    background:
+        linear-gradient(black, #808080) padding-box,
+        linear-gradient(#09f, white) border-box;
+}
+
+.links{
+    padding: 8px;
+    border-radius: 20px;
+    border: 3px solid #0000;
+    background:
+        linear-gradient(black, #656565) padding-box,
+        linear-gradient(#09f, white) border-box;
+}
+
+.linksSocial{
+    padding: 10px;
+    border-radius: 25px;
+    border: 4px solid #0000;
+    background:
+        linear-gradient(black, #656565) padding-box,
+        linear-gradient(#09f, white) border-box;
+}
+
+.menuItems{
+    padding: 6px;
+    border-radius: 25px;
+    border: 4px solid #0000;
+    background:
+        linear-gradient(black, #656565) padding-box,
+        linear-gradient(#09f, white) border-box;
+}

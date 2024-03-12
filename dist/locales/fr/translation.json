@@ -27,14 +27,17 @@
         "title1": "Ingénieur logiciel stagiaire : Grupo Asesor en Informática S.A.",
         "description1": "J'ai fait partie d'une équipe qui développait un nouveau système pour une application web avec les bases de la programmation, les bases de données et d'autres technologies. Application web fonctionnelle et évolutive et mise en œuvre d'une nouvelle fonctionnalité de menu.",
         "more": "En savoir plus...",
-        "to": "à"
+        "to": "à",
+        "github": "Lien vers Github"
     },
     "projects": {
         "title": "Kámien Costa Rica",
         "description": "Je fais partie d'un projet indépendant avec Kámien Costa Rica, une boutique en ligne avec des articles originaux. L'authenticité est garantie et les produits sont importés directement des États-Unis. Je m'occupe de la maintenance, de la refonte et du développement de nouvelles fonctions du site web pour l'achat de produits par Whatsapp.",
         "screenshot": "Capture d'écran du projet",  
         "title2": "Application météo",
-        "description2": "Ce projet est une application permettant d'utiliser et de renforcer mes connaissances en typescript Next et css Tailwind avec API, l'utilisation et les bonnes pratiques des développeurs web en Backend et Frontend."
+        "description2": "Ce projet est une application permettant d'utiliser et de renforcer mes connaissances en matière d'utilisation de typescript Next et de css Tailwind avec les API, l'utilisation et les bonnes pratiques de développeur web importantes en Backend et Frontend à partir de la vidéo proposée par freecodecamp : https://www.youtube.com/watch?v=KkC_wYM_Co4.",
+        "title3": "TodoApp CRUD",
+        "description3": "Ce projet est une application pour utiliser et renforcer mes connaissances en Django & Nextjs CRUD en utilisant Python comme Backend connecté à une base de données Postgresql depuis l'hébergeur Render.com et NextJs comme Frontend (Django REST Framework et React) avec les bonnes pratiques de la vidéo proposée par Fazt Code : https://www.youtube.com/watch?v=2yvbLC9Fxkk."
     },
     "footer": {
         "about": "A propos de moi",
@@ -59,7 +62,8 @@
     },
     "about": {
         "title": "A propos de moi",
-        "bio": "Bonjour 👋 Je suis Steven Alvarado Aguilar ✨. 🌱 Je suis actuellement en train d'apprendre le développement WEB Full-Stack. 🎓 Étudiant sur le point d'obtenir un diplôme en génie informatique à l'Université technique du Costa Rica, dans la carrière de baccalauréat en génie informatique. Je suis actuellement à la recherche d'un emploi, 💻 avec 8 mois d'expérience professionnelle dans le domaine du développement de logiciels.",
-        "skills": "Technologies connues👨🏻‍💻"
+        "bio": "Bonjour 👋 Je suis Steven Alvarado Aguilar ✨. 🌱 Je suis actuellement en train d'apprendre le développement WEB Full-Stack. 🎓 Diplômé en génie informatique à l'Université Instituto Tecnológico de Costa Rica, dans le baccalauréat en génie informatique. 💻 Avec 8 mois d'expérience professionnelle dans le domaine du développement de logiciels en tant que Full-Stack où j'ai appris beaucoup de technologies que je ne connaissais pas et que je suis en train d'apprendre plus profondément pour avoir une meilleure gestion lors de leur application à de futurs projets soit personnels ou au travail. Ensuite, je décrirai certaines des technologies que j'ai déjà expérimentées et d'autres auxquelles j'ai été formé.",
+        "skills": "Technologies connues👨🏻‍💻",
+        "otherTecnologies": "Autres technologies"
     }
 }

@@ -27,14 +27,17 @@
         "title1": "Intern Ingeniero de Software : Grupo Asesor en Informática S.A.",
         "description1": "Fui parte de un equipo en el desarrollo de un nuevo sistema para una aplicación web con los fundamentos de programación, fundamentos de bases de datos y otras tecnologías. Aplicación web funcional, escalable e implementación de una nuev funcionalidad de un menú.",
         "more": "Saber más...",
-        "to": "al"
+        "to": "al",
+        "github": "Enlace al Github"
     },
     "projects": {
         "title": "Kámien Costa Rica",
         "description": "Soy parte de un proyecto independiente con Kámien Costa Rica, una tienda virtual con artículos originales. Autenticidad garantizada e importaciones directamente desde USA. Estoy dando mantenimiento, rediseño y desarrollo de nuevas funciones del sitio web para la compra de productos a través de Whatsapp.",
         "screenshot": "Captura de pantalla del proyecto",
         "title2": "Aplicación meteorológica",
-        "description2": "Este proyecto es una aplicación para utilizar y reforzar mis conocimientos en Next utilizado typescript y Tailwind css con API's, la utilización y las buenas prácticas de la importancia desarrollador web en Backend y Frontend."
+        "description2": "Este proyecto es una aplicación para utilizar y reforzar mis conocimientos en Next utilizado typescript y Tailwind css con API's, la utilización y las buenas prácticas de la importancia desarrollador web en Backend y Frontend desde el video ofrecido por freecodecamp: https://www.youtube.com/watch?v=KkC_wYM_Co4.",
+        "title3": "TodoApp CRUD",
+        "description3": "Este proyecto es una aplicación para utilizar y reforzar mis conocimientos en Django & Nextjs CRUD utilizando Python cómo Backend conectado a una base de datos Postgresql de el host de Render.com y NextJs cómo Frontend (Django REST Framework y React) con buenas prácticas desde el video ofrecido por Fazt Code: https://www.youtube.com/watch?v=2yvbLC9Fxkk."
     },
     "footer": {
         "about": "Sobre mí",
@@ -59,7 +62,8 @@
     },
     "about": {
         "title": "Sobre mi",
-        "bio": "Hola 👋 soy Steven Alvarado Aguilar ✨. 🌱 Actualmente estoy aprendiendo Desarrollo WEB Full-Stack. 🎓 Estudiante a días de graduarse de ingeniería en Computación en la Universidad Técnologico de Costa Rica, en la carrera de Bachillerato en Ingeniería en Computación. Actualmente estoy en búsqueda de trabajo, 💻 con 8 meses de experiencia profesional en el campo de desarrollo de software.",
-        "skills": "Tecnologías conocidas👨🏻‍💻"
+        "bio": "Hola 👋 soy Steven Alvarado Aguilar ✨. 🌱 Actualmente estoy aprendiendo Desarrollo WEB Full-Stack. 🎓 Graduado de Ingeniero en Computación en la universidad Instituto Tecnológico de Costa Rica, en la carrera de bachillerato en Ingeniería en Computación. 💻 Con 8 meses de experiencia profesional en el campo de desarrollo de software cómo Full-Stack dónde aprendí muchas tecnologías que no conocía y que actualmente estoy aprendiendo de más profundamente para tener un mejor manejo al aplicarlas a futuros proyectos ya sean personales o en el trabajo. A continuación, describiré algunas de las tecnologías que ya tengo experiencia y otras en las que me he estado capacitando.",
+        "skills": "Tecnologías conocidas👨🏻‍💻",
+        "otherTecnologies": "Otras tecnologías"
     }
 }

@@ -39,12 +39,12 @@ const Footer = () => {
         <ul
           className="flex flex-wrap items-center mt-3 text-sm font-medium dark:text-white/90 sm:mt-0"
         >
-          <Link 
-          to="/about" 
-          className="hover:bg-white/10 rounded-full px-3 transition font-bold text-sm md:text-base" 
-        >
+          <Link
+            to="/about"
+            className="hover:bg-white/10 rounded-full px-3 transition font-bold text-sm md:text-base"
+          >
             {t("header.aboutMe")}
-        </Link>
+          </Link>
           <li>
             <a
               className="hover:bg-white/10 rounded-full px-3 transition font-bold text-sm md:text-base"
@@ -61,7 +61,7 @@ const Footer = () => {
       </div>
       <ContactModal isOpen={isContactModalOpen} onClose={() => setIsContactModalOpen(false)} /> {/* Renderizar el modal */}
     </footer>
-    
+
   );
 };
 

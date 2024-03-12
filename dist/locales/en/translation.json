@@ -27,14 +27,17 @@
         "title1": "Software Engineer Intern : Grupo Asesor en Informática S.A.",
         "description1": "I was part of a team in the development of a new system for a web application with the basics of programming, database fundamentals and other technologies. Functional, scalable web application and implementation of a new menu functionality.",
         "more": "Learn more...",
-        "to": "at"
+        "to": "at",
+        "github": "Link to Github"
     },
     "projects": {
         "title": "Kámien Costa Rica",
         "description": "I am part of an independent project with Kámien Costa Rica, an online store with original items. Guaranteed authenticity and imports directly from USA. I am giving maintenance, redesign and development of new website features for the purchase of products through Whatsapp.",
         "screenshot": "Screenshot of the project",       
         "title2": "Weather App",
-        "description2": "This project is an application to use and reinforce my knowledge in Next used typescript and Tailwind css with API's, the use and good practices of web developer importance in Backend and Frontend."
+        "description2": "This project is an application to use and reinforce my knowledge in Next used typescript and Tailwind css with API's, the use and good practices of web developer importance in Backend and Frontend from the video offered by freecodecamp: https://www.youtube.com/watch?v=KkC_wYM_Co4.",
+        "title3": "TodoApp CRUD",
+        "description3": "This project is an application to use and reinforce my knowledge in Django & Nextjs CRUD using Python as Backend connected to a Postgresql database from Render.com host and NextJs as Frontend (Django REST Framework and React) with good practices from the video offered by Fazt Code: https://www.youtube.com/watch?v=2yvbLC9Fxkk."
     },
     "footer": {
         "about": "About me",
@@ -55,7 +58,8 @@
     },
     "about": {
         "title": "About me",
-        "bio": "Hello 👋 I'm Steven Alvarado Aguilar ✨. 🌱 I'm currently learning Full-Stack WEB Development. 🎓 Student about to graduate from Computer Engineering at the Universidad Tecnologico de Costa Rica, in the Bachelor's Degree in Computer Engineering. I am currently looking for a job, 💻 with 8 months of professional experience in the field of software development.",
-        "skills": "Known technologies👨🏻‍💻"
+        "bio": "Hello 👋 I'm Steven Alvarado Aguilar ✨. 🌱 I'm currently learning Full-Stack WEB Development. 🎓 Graduated as a Computer Engineer at the university Instituto Tecnológico de Costa Rica, in the bachelor's degree in Computer Engineering. 💻 With 8 months of professional experience in the field of software development as Full-Stack where I learned many technologies that I did not know and that I am currently learning more deeply to have a better management when applying them to future projects either personal or at work. Next, I will describe some of the technologies that I already have experience and others in which I have been training.",
+        "skills": "Known technologies👨🏻‍💻",
+        "otherTecnologies": "Other Tecnologies"
     }
 }

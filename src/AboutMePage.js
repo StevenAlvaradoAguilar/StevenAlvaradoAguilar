@@ -2,11 +2,11 @@
 import React, { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import ChangeLanguage from "./components/icons/ChangeLanguage";
-import DownArrow from "./components/icons/DownArrow";
-import FrontEndCard from "./FrontEndCard";
-import BackEndCard from "./BackEndCard";
-import OtherTechnologies from "./OtherTechnologies";
+import ChangeLanguage from "./components/icons/ChangeLanguage.svg";
+import DownArrow from "./components/icons/DownArrow.svg";
+import FrontEndCard from "./components/FrontEndCard";
+import BackEndCard from "./components/BackEndCard";
+import OtherTechnologies from "./components/OtherTechnologies";
 import "./AboutMe.css";
 
 function AboutMePage() {
@@ -58,8 +58,8 @@ function AboutMePage() {
             onClick={handleLanguageMenuToggle}
           >
             <div className="flex items-center">
-              <ChangeLanguage className="size-4 md:size-6 mr-2" />
-              <DownArrow className="size-4 md:size-6" />
+              <img className="size-2 md:size-5 mr-2" src={ChangeLanguage} alt="Change Language" />
+              <img className="size-2 md:size-3" src={DownArrow} alt="DownArrow" />
             </div>
           </button>
           {isLanguageMenuOpen && (
@@ -67,7 +67,7 @@ function AboutMePage() {
               <div className="menuItems font-bold text-sm md:text-base absolute z-10 top-full left-50 mt-1 border border-black rounded-md shadow-lg focus:outline-none">
                 {Object.keys(lngs).map((lng) => (
                   <div
-                    className="language"
+                    className="transition-colors duration-300 hover:text-blue-500"
                     key={lng}
                     onClick={() => handleLanguageChange(lng)}
                   >
@@ -84,48 +84,46 @@ function AboutMePage() {
       </h1>
       <p className="text-lg mb-4 mt-5">{t("about.bio")}</p>
       <h2 className="text-2xl font-bold mb-4">{t("about.skills")}</h2>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <div style={{ position: "relative", textAlign: "center" }}>
-            <h3 className="mb-4">FrontEnd Stack</h3>
-            <div
-              style={{
-                display: "flex",
-                flexWrap: "wrap",
-                justifyContent: "center",
-              }}
-            >
-              <FrontEndCard />
-            </div>
+      <div>
+        <div style={{ position: "relative", textAlign: "center" }}>
+          <h3 className="mb-4">FrontEnd Stack</h3>
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              justifyContent: "center",
+            }}
+          >
+            <FrontEndCard />
           </div>
+        </div>
 
-          <div style={{ position: "relative", textAlign: "center" }}>
-            <h3 className="mb-4">BackEnd Stack</h3>
-            <div
-              style={{
-                display: "flex",
-                flexWrap: "wrap",
-                justifyContent: "center",
-              }}
-            >
-              <BackEndCard />
-            </div>
+        <div style={{ position: "relative", textAlign: "center" }}>
+          <h3 className="mb-4">BackEnd Stack</h3>
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              justifyContent: "center",
+            }}
+          >
+            <BackEndCard />
           </div>
+        </div>
 
-          <div style={{ position: "relative", textAlign: "center" }}>
-            <h3 className="mb-4">BackEnd Stack</h3>
-            <div
-              style={{
-                display: "flex",
-                flexWrap: "wrap",
-                justifyContent: "center",
-              }}
-            >
-              <OtherTechnologies />
-            </div>
+        <div style={{ position: "relative", textAlign: "center" }}>
+          <h3 className="mb-4">{t("about.otherTecnologies")}</h3>
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              justifyContent: "center",
+            }}
+          >
+            <OtherTechnologies />
           </div>
-        </a>
-      </p>
+        </div>
+      </div>
     </div>
   );
 }

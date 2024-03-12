@@ -1,11 +1,11 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import ChangeLanguage from "../components/icons/ChangeLanguage";
+import ChangeLanguage from "../components/icons/ChangeLanguage.svg";
 // import useTheme from './hooks/useTheme';
 import { Link } from 'react-router-dom';
 
-import DownArrow from './icons/DownArrow';
+import DownArrow from './icons/DownArrow.svg';
 import ContactModal from './ContactModal';                                  
 
 const Header = () => {
@@ -94,15 +94,16 @@ const Header = () => {
             onClick={handleLanguageMenuToggle}
           >
             <div className="flex items-center">
-              <ChangeLanguage className="size-4 md:size-6 mr-2" />
-              <DownArrow className="size-4 md:size-6" />
+            <img className="size-4 md:size-5 mr-2" src={ChangeLanguage} alt="Change Language" />
+            <img className="size-2 md:size-3" src={DownArrow} alt="DownArrow" />
             </div>
           </button>
           {isLanguageMenuOpen && (
             <div className="menuLanguages floatingMenu">
-              <div className="menuItems font-bold text-sm md:text-base absolute z-10 top-full left-50 mt-1 border border-black rounded-md shadow-lg focus:outline-none">
+              <div className="menuItems font-bold text-sm md:text-base absolute z-10 top-full left-50 mt-1">
                 {Object.keys(lngs).map((lng) => (
-                  <div className="language transition-colors duration-300 hover:text-blue-500" key={lng} onClick={() => handleLanguageChange(lng)}>
+                  <div 
+                  className="language transition-colors duration-300 hover:text-blue-500" key={lng} onClick={() => handleLanguageChange(lng)}>
                     <a className="langOption">{lngs[lng].nativeName}</a>
                   </div>
                 ))}

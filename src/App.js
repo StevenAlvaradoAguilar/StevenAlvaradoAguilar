@@ -6,15 +6,15 @@ import Footer from "../src/components/Footer";
 
 import Badge from "../src/components/Badge";
 import SectionContainer from "../src/components/SectionContainer";
-import LinkedInIcon from "../src/components/icons/LinkedIn";
+import LinkedInIcon from "../src/components/icons/LinkedIn.svg";
 import SocialPill from "../src/components/SocialPill";
-import GitHubIcon from "../src/components/icons/GitHub";
-import MailIcon from "../src/components/icons/Mail";
+import GitHubIcon from "../src/components/icons/GitHub.svg";
+import MailIcon from "../src/components/icons/Mail.svg";
 import Experience from "../src/components/Experience";
-import Briefcase from "../src/components/icons/Briefcase";
-import CodeIcon from "../src/components/icons/Code";
+import Briefcase from "../src/components/icons/Briefcase.svg";
+import CodeIcon from "../src/components/icons/Code.svg";
 import Projects from "../src/components/Projects";
-import Phone from "../src/components/icons/Phone";
+import Phone from "../src/components/icons/Phone.svg";
 
 function App() {
   const { t, i18n  } = useTranslation();
@@ -61,19 +61,19 @@ function App() {
 
           <nav className="flex gap-4 mt-8 flex-wrap">
             <SocialPill href="https://www.linkedin.com/in/stevenalvaradoa/">
-              <LinkedInIcon className="size-4 md:size-6" />
+              <img className="size-4 md:size-6" src={LinkedInIcon} alt="LinkedIn" />
               LinkedIn
             </SocialPill>
             <SocialPill href="https://github.com/StevenAlvaradoAguilar">
-              <GitHubIcon className="size-4 md:size-6" />
+              <img className="size-4 md:size-6" src={GitHubIcon} alt="GitHub" />
               GitHub
             </SocialPill>
             <SocialPill href="https://wa.me/+50683493058">
-              <Phone className="size-4 md:size-4" />
+              <img className="size-4 md:size-4" src={Phone} alt="Phone" />
               {t("page.contact")}
             </SocialPill>
             <SocialPill href="mailto:alvaradosteven6@gmail.com">
-              <MailIcon className="size-4 md:size-6" />
+              <img className="size-4 md:size-6" src={MailIcon} alt="Mail" />
               {t("page.email")}
             </SocialPill>
           </nav>
@@ -81,7 +81,7 @@ function App() {
 
         <SectionContainer id="experiencia">
           <h2 className="text-3xl font-semibold mb-6 flex gap-x-3 items-center text-black/80 dark:text-white/80">
-            <Briefcase className="size-7" />
+            <img className="size-7" src={Briefcase} alt="Briefcase" />
             {t("page.WorkExperience")}
           </h2>
           <Experience />
@@ -89,7 +89,7 @@ function App() {
 
         <SectionContainer id="proyectos">
           <h2 className="text-3xl font-semibold mb-6 flex gap-x-3 items-center text-black/80 dark:text-white/80">
-            <CodeIcon className="size-7" />
+            <img className="size-7" src={CodeIcon} alt="Code" />
             {t("page.projects")}
           </h2>
           <Projects />
